@@ -14,6 +14,7 @@ Power BI | Power Query | DAX | Data Modeling | Data Visualization
    - Average Review Score: 4.09.
    - On-Time Delivery Rate: 91.62%.
 4. Interactive Dashboards: Designed two engaging and scannable dashboards with dynamic visualizations (charts, maps, etc.) and intuitive slicers for user-driven filtering.
+5. Enhanced UX with Custom Tooltips: Designed dedicated report pages to serve as Custom Tooltips, providing users with detailed, contextual data pop-ups when hovering over visualizations.
 
 📂 Dataset Source:
 Brazilian E-Commerce Public Dataset by Olist (available on Kaggle)
